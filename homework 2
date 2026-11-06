@@ -1,0 +1,236 @@
+<!doctype html> 
+ <html>
+
+<h1> Hi My name is Rhondi and I enjoy raising Reptiles </h1>
+
+</html>
+<link rel='stylesheet'>
+<head>Smaug is my pet bearded dragon who is also my ESA</head>
+
+<p> Reptiles are very imprtant to me because they are very unique and fun to raise. I have a few different types of reptiles that I take care of and they all have their own personalities.</p>
+
+.classname Web Design
+#id {}
+
+ <title>Rhondi Garrigues | Reptile Portfolio</title>
+
+  <!-- Links the separate CSS file -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <header class="site-header">
+    <h1>Rhondi Garrigues: Reptile Portfolio</h1>
+
+    <nav aria-label="Main navigation">
+      <ul>
+        <li><a href="index.html" aria-current="page">Home</a></li>
+        <li><a href="projects.html">Projects / Work</a></li>
+        <li><a href="about.html">About / Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="main-content">
+    <section class="panel">
+      <h2>Welcome to My Reptile Portfolio</h2>
+
+      <p>
+        This portfolio will showcase reptile research,
+        habitat design, and creative projects.
+      </p>
+
+      <p>
+        Placeholder: Introduce my interest in reptiles
+        and the species I want to explore.
+      </p>
+
+      <a class="button" href="projects.html">Explore My Projects</a>
+    </section>
+
+    <section class="panel">
+      <h2>Featured Work</h2>
+
+      <article class="project-card">
+        <h3>Reptile Species Profile</h3>
+
+        <p>
+          Placeholder: Introduce a reptile species
+          I choose and the focus of my research.
+        </p>
+
+        <a href="projects.html#project-one">
+          Read About This Project
+        </a>
+      </article>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Rhondi Garrigues. Reptile Portfolio.</p>
+  </footer>
+</body>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homework 1: Favorite Animals</title>
+    <!-- Requirement: Separate CSS file linked via a link rel stylesheet tag in the head -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Selector Type 1: Type (Element) Selector (body, header, h1, etc.) -->
+    <header>
+        <h1>Welcome to My Favorite Animals Page</h1>
+    </header>
+
+    <main>
+        <!-- Selector Type 2: Class Selector (.pet-card) -->
+        <section class="pet-card">
+            <h2>My Absolute Favorite: Reptiles</h2>
+            <p>Reptiles are some of the most fascinating creatures on Earth. They are ectothermic (cold-blooded), have specialized scales, and boast incredible adaptations that let them survive in deserts, rainforests, and everywhere in between.</p>
+        </section>
+
+        <section class="pet-card">
+            <h2>The Highlight: Bearded Dragons</h2>
+            <p>Among all reptiles, <strong>Bearded Dragons</strong> stand out as the absolute favorite. Known for their calm demeanor, expressive "beards," and adorable head bobs, they make incredible companion animals and are a joy to study.</p>
+        </section>
+
+        <!-- Selector Type 3: ID Selector (#submission-info) -->
+        <footer id="submission-info">
+            <p>Homework 1 Submission Page • Created for Web Development Class</p>
+        </footer>
+    </main>
+
+</body>
+</html>
+
+
+<html>
+    <body/>
+        <h1>My Favorite Animals</h1>
+        <p>Reptiles are my favorite animals because they are unique and fascinating creatures. I enjoy learning about their behaviors, habitats, and the different species that exist around the world.</p>
+    * {
+  box-sizing: border-box;
+}
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Rhondi Garrigues | Reptile Portfolio</title>
+
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <header class="site-header">
+    <a class="site-name" href="index.html">
+      Rhondi Garrigues
+      <span>Reptile Portfolio</span>
+    </a>
+
+    <nav aria-label="Main navigation">
+      <ul>
+        <li>
+          <a href="index.html" aria-current="page">Home</a>
+        </li>
+        <li>
+          <a href="projects.html">Projects / Work</a>
+        </li>
+        <li>
+          <a href="about.html">About / Contact</a>
+        </li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="main-content">
+    <section class="hero">
+      <p class="eyebrow">Welcome to my reptile portfolio</p>
+
+      <h1>
+        Hi, my name is Rhondi.
+        I enjoy raising <span>reptiles.</span>
+      </h1>
+
+      <p class="intro">
+        Reptiles are very important to me because they are
+        unique and fun to raise. I have a few different types
+        of reptiles that I take care of, and they all have
+        their own personalities.
+      </p>
+
+      <a class="button" href="projects.html">
+        Explore My Projects
+      </a>
+    </section>
+
+    <section class="panel">
+      <h2>My Interest in Reptiles</h2>
+
+      <p>
+        I enjoy learning about reptiles and watching how
+        they behave. Taking care of them gives me a chance
+        to learn something new and see what makes each
+        one different.
+      </p>
+
+      <p>
+        This portfolio is where I will share my reptile
+        research, habitat designs, and creative projects.
+      </p>
+    </section>
+
+    <section class="featured">
+      <div class="section-heading">
+        <p class="eyebrow">Learning about reptiles</p>
+        <h2>Featured Work</h2>
+      </div>
+
+      <div class="card-grid">
+        <article class="project-card">
+          <span class="card-number">01 / RESEARCH</span>
+
+          <h3>Reptile Species Profile</h3>
+
+          <p>
+            For this project, I will choose a reptile
+            species and share what I learn about its
+            appearance, behavior, and natural habitat.
+          </p>
+
+          <a href="projects.html#project-one">
+            Read About This Project
+          </a>
+        </article>
+
+        <article class="project-card">
+          <span class="card-number">02 / DESIGN</span>
+
+          <h3>Habitat Design</h3>
+
+          <p>
+            For this project, I will share a reptile
+            habitat design and explain the choices
+            I made for the enclosure.
+          </p>
+
+          <a href="projects.html">
+            Explore My Work
+          </a>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer id="submission-info">
+    <p>&copy; 2026 Rhondi Garrigues. Reptile Portfolio.</p>
+    <p>Created for Web Design Class</p>
+  </footer>
+</body>
+</html>
